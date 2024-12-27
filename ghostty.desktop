@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Ghostty
+Type=Application
+Comment=A terminal emulator
+Exec=/opt/ghostty/bin/ghostty
+Icon=/opt/ghostty/share/icons/hicolor/128x128/apps/com.mitchellh.ghostty.png
+Categories=System;TerminalEmulator;
+Keywords=terminal;tty;pty;
+StartupNotify=true
+Terminal=false
+Actions=new-window;
+X-GNOME-UsesNotifications=true
+
+[Desktop Action new-window]
+Name=New Window
+Exec=/opt/ghostty/bin/ghostty
