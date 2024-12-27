@@ -1,6 +1,6 @@
 # Ghostty Prebuilt Binary
 
-Prebuilt binary of (**Ghostty**)[https://github.com/ghostty-org/ghostty] for Debian-based Linux distributions (built on Ubuntu 24.04).
+Prebuilt binary of [**Ghostty**](https://github.com/ghostty-org/ghostty) for Debian-based Linux distributions (built on Ubuntu 24.04).
 
 ---
 
